@@ -1,0 +1,7 @@
+case_id,phenotype subset,panel (version),hgvs,zygosity,segregation,classification,criteria
+P208,metaphyseal dysplasia,Skeletal dysplasia (PanelApp v2.9),"FN1(NM_212482.2):c.675C>G
+(p.Cys225Trp)",heterozygous,deNovo,Likely Pathogenic,"PS2_Str, PP3, PM2, PM1_Mod"
+P311,"seizures, abnormality of limb bone, global developmental delay",Genetic epilepsy syndromes (PanelApp v2.93),PPP2CA(NM_002715):c.351T>G (p.Asn117Lys),heterozygous,deNovo,“Hot” VUS,"PP3, PP2, PM2, PS2_supp"
+P345,"abnormal skull morphology, metaphyseal chondrodysplasia, abnormality of the cardiovascular system",Skeletal dysplasia (Panel App v2.9),IDH1(NM_005896):c.395G>A (p.Arg132His),heterozygous,deNovo,Pathogenic,"PS3, PS4, PM1, PM2, PM5, PP2, PP3"
+P348,"abnormality of joint mobility, abnormal aortic morphology, abnormal lung morphology, abnormality of the nose",Thoracic aortic aneurysm or dissection (PanelApp v1.112),ABL1(NM_007313.2):c.1573G>A (p.Val525Met),heterozygous,deNovo,“Hot” VUS,"PM2, PS2_Mod"
+P895,"abnormal palate morphology, abnormal oral morphology, atrial septal defect",Clefting (PanelApp v2.3),BMP2(NM_001200.3):c.508C>T (p.Arg170Ter),heterozygous,InheritedAutosomalDominant,Pathogenic,"PVS1, PM2"
